@@ -2,10 +2,15 @@ ASP.NET Core
 
 Demo
 API: https://clinicserviceswebapi20201222164153.azurewebsites.net/swagger/index.html
+
 Admin: https://demoprojectsem3.azurewebsites.net/Admin/Home/Login
+
 Website: https://demoprojectsem3.azurewebsites.net/
+
 Account Admin:
+
 -Username: admin
+
 -Password: 1234
 
 
